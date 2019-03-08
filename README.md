@@ -4,5 +4,13 @@ Applying Word2Vec to Korean
 
 # Dataset
 kowiki-20190220-pages-articles-multistream.xml
-
+-500000 vocab_size
+-5 window size
+-100 vector size
 # Result
+
+(./img/ko2vec.png)
+
+#test code
+
+(./img/ko2vec.png)

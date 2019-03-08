@@ -16,7 +16,7 @@ kowiki-20190220-pages-articles-multistream.xml
 ![result](./img/ko2vec.png)
 
 
-# visualize
+# visualize (samples only)
 
 ![visualize](./img/visualize.png)
 

@@ -16,6 +16,14 @@ kowiki-20190220-pages-articles-multistream.xml
 ![result](./img/ko2vec.png)
 
 
+# visualize
+
+![visualize](./img/visualize.png)
+
+
 # Test
 
 ![test](./img/ko2vec2.png)
+
+
+

@@ -9,8 +9,9 @@ kowiki-20190220-pages-articles-multistream.xml
 -100 vector size
 # Result
 
-(./img/ko2vec.png)
+![result](./img/ko2vec.png)
+
 
 #test code
 
-(./img/ko2vec.png)
+![test](./img/ko2vec.png)

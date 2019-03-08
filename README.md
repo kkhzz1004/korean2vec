@@ -14,4 +14,4 @@ kowiki-20190220-pages-articles-multistream.xml
 
 #test code
 
-![test](./img/ko2vec.png)
+![test](./img/ko2vec2.png)
